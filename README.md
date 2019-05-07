@@ -9,6 +9,10 @@ Repository structure:
 │  ├─ lagrange.sce
 │  ├─ linear.sce
 │  └─ newton.sce
+├─ ode
+│  ├─ derivatives.sce
+│  ├─ euler.sce
+│  └─ runge-kuntta.sce
 ├─ roots_of_functions
 │  ├─ bisection.sce
 │  └─ newton_raphson.sce
